@@ -1,4 +1,4 @@
-public class Oopsuc5 {
+public class UC5 {
     public static void main(String[] args) {
         String[] bannerLines = {
             String.join(" ", " **** ", " **** ", " ****** ", " ******** "),
